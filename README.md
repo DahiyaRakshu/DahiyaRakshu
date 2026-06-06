@@ -64,19 +64,19 @@ I love working at the intersection of **design and development**, combining crea
 
 ## 📈 GitHub Stats
 
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
+> Replace `DahiyaRakshu` with your actual GitHub username.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DahiyaRakshu&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DahiyaRakshu&theme=transparent&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DahiyaRakshu&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -100,7 +100,7 @@ An innovative project exploring automation, AI, or data-driven solutions.
 
 ## 📊 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DahiyaRakshu&theme=github-compact&hide_border=true"/>
 
 ---
 
